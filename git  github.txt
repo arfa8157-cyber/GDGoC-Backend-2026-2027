@@ -1,0 +1,55 @@
+git / github
+
+git-> 3 layer   1-Working directory
+		2-Stage index
+		3-Repo
+
+*any commit has a unique id*
+
+command:
+git add dir -> to add project
+git commit -m "message"-> to add new changes
+git status -> to show file wasent add 
+git restore -> to delete changes
+git restore file name-> to delete changes in this file
+git show unique id -> show any thing in this id
+git diff -> show diffrence between files before changes and after
+git diff --staged -> show diffrence between staging area and repo
+git log --online --all -> to show all commit changes and show where is the head
+get rest HEAD-number of commit` -> to set head in this commit
+git bransh name of branch -> to make a bransh 
+git switch name of another branch -> to switch between branch
+git checkout -b name of bransh -> to add and switch branch
+git branch -> to show all branche's
+git merge branch1 branch2 -> to merge between to branche's
+git chekout bransh -> if exist -> switched to this branch -> not exist -> show not exist
+git init -> to make folder(.git) have all changes
+git rm --cached -> if you want download file in staging area
+git checkout branch = git switch
+...................................
+remote = github :
+git remote add origin link of repo -> to related between project and repo
+git push origin branch -> to push all files in this branch to repo
+git fetch remote name branch name ->to relate to merge between tow branches
+git merge origin/branch name -> second action to merge
+git pull origin -> to merge in one action
+git push --set upstream origin branch -> to make push easy
+
+...........................................
+if exist repo ------(team work)
+git clone link of repo -> to make copy repo  (any repo in github) 
+in website-> can make fork by button -> fork -> crate fork
+
+
+
+
+
+
+
+
+
+
+
+
+
+
