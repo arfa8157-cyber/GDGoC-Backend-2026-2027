@@ -15,7 +15,7 @@ git restore file name-> to delete changes in this file
 git show unique id -> show any thing in this id
 git diff -> show diffrence between files before changes and after
 git diff --staged -> show diffrence between staging area and repo
-git log --online --all -> to show all commit changes and show where is the head
+git log --oneline --all -> to show all commit changes and show where is the head
 get rest HEAD-number of commit` -> to set head in this commit
 git bransh name of branch -> to make a bransh 
 git switch name of another branch -> to switch between branch
