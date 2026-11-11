@@ -16,7 +16,7 @@ git show unique id -> show any thing in this id
 git diff -> show diffrence between files before changes and after
 git diff --staged -> show diffrence between staging area and repo
 git log --oneline --all -> to show all commit changes and show where is the head
-get rest HEAD-number of commit` -> to set head in this commit
+get reset HEAD-number of commit` -> to set head in this commit
 git bransh name of branch -> to make a bransh 
 git switch name of another branch -> to switch between branch
 git checkout -b name of bransh -> to add and switch branch
@@ -28,9 +28,9 @@ git rm --cached -> if you want download file in staging area
 git checkout branch = git switch
 ...................................
 remote = github :
-git remote add origin link of repo -> to related between project and repo
-git push origin branch -> to push all files in this branch to repo
-git fetch remote name branch name ->to relate to merge between tow branches
+git remote add origin link-of-repo -> to related between project and repo
+git push origin branch-name -> to push all files in this branch to repo
+git fetch remote name branch-name ->to relate to merge between tow branches
 git merge origin/branch name -> second action to merge
 git pull origin -> to merge in one action
 git push --set upstream origin branch -> to make push easy
