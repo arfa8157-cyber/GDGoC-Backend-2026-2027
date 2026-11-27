@@ -1,0 +1,75 @@
+/* task-1 */
+/* h1 {
+  color: red;
+  background-color: yellow;
+};
+p {
+  color: blue;
+  background-color: green;
+};
+#id {
+  color: purple;
+  background-color: orange;
+} ;
+.class {
+  color: pink;
+  background-color: brown;
+};
+div {
+  color: gray;
+  background-color: cyan;
+};
+body {
+  color: white;
+  background-color: black;
+}; */
+
+/* task-2 */
+/* .parent {
+  color: red;
+  background-color: yellow;
+}
+.child {
+  color: blue;
+  background-color: green;
+} */
+
+/* task-3 */
+
+/* #id {
+  color: red;
+  background-color: yellow;
+}
+
+#divP {
+  color: blue;
+  background-color: green;
+} */
+
+/* task-4 */
+
+/* p {
+  color: purple;
+  background-color: orange;
+}
+#headP {
+  color: black;
+  background-color: white;
+} */
+
+/* task*5*/
+
+
+/* #parent1 p {
+  color: blue;
+}
+
+#parent1 > p:first-child {
+  color: rgb(219, 8, 8);
+  background-color: #2196f3;
+}
+
+#parent1 > p:last-child {
+  color: rgb(15, 171, 233);
+  background-color: #e91e63;
+} */
